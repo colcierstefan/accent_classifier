@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "tech-challenge"
+version = "0.1.0"
+description = ""
+authors = ["Stefan Colcier"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+streamlit = "^1.45.0"
+yt-dlp = "^2025.4.30"
+ffmpeg-python = "^0.2.0"
+torch = "^2.7.0"
+soundfile = "^0.13.1"
+transformers = "^4.51.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

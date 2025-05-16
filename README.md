@@ -1,12 +1,7 @@
 # REM Waste Accent Classifier
 
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
-[![Poetry](https://img.shields.io/badge/poetry-1.7.1-blue.svg)](https://python-poetry.org/)
-[![Streamlit](https://img.shields.io/badge/streamlit-1.45.0-orange.svg)](https://streamlit.io/)
-
 A web application that analyzes videos to identify the speaker's English accent. Simply provide a URL to a public video (YouTube, Loom, or direct MP4), and the classifier will process the audio to determine the most likely accent.
 
-![Screenshot of Application](https://via.placeholder.com/800x450?text=REM+Waste+Accent+Classifier)
 
 ## Features
 
@@ -22,7 +17,7 @@ A web application that analyzes videos to identify the speaker's English accent.
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/tech-challenge.git
+git clone https://github.com/colcierstefan/accent_classifier.git
 cd tech-challenge
 
 # Install dependencies with Poetry
@@ -36,7 +31,7 @@ poetry shell
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/tech-challenge.git
+git clone (https://github.com/colcierstefan/accent_classifier).git
 cd tech-challenge
 
 # Create a virtual environment
